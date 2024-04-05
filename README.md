@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/dixitram"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a>
+<a href="https://app.daily.dev/dixitram"><img src="./devcard.png" width="356" alt="Dixit's Dev Card"/></a>
 
 
 - 👋 Hi, I’m Dixit Ram (@DixitRam)
