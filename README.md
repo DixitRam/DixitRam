@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Dixit Ram (@DixitRam)
 - 👀 I’m interested in Mobile Development, web development operating systems Etc
 - 🌱 I’m currently learning Computer Science.
-- 📫 How to reach me By dixitram.dev@outlook.com 
+- 📫 How to reach me By dixitram.work@gmail.com 
 
 <!---
 Dixit-deegit/Dixit-deegit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
